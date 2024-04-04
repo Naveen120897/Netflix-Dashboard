@@ -33,3 +33,7 @@ Connect the workbook to the Netflix dataset.
 Explore the different dashboard tabs to view various analyses.
 
 Use interactive filters and parameters to customize views.
+
+## Here is the visual representation of Netflix dataset 
+
+![Dashboard 1 (1)](https://github.com/Naveen120897/Netflix-Dashboard-Tableau/assets/159805236/2b9224a0-3cb8-4ab1-a15d-cc10afdfa3bc)
